@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob!
-- 👀 I’m interested in Software Engineering with Python as my primary coding Language/
-- 🌱 I’m currently learning skills generally associated with my role, such as SQL, Django, Docker, REST API and will be diving deeper into algorithms after this.
+- 👀 I’m interested in Software Engineering with Python as my primary coding Language.
+- 🌱 I’m currently learning skills generally associated with my role, such as SQL, Flask, Django, REST API and will be diving deeper into algorithms after this.
 - 📫 How to reach me:
 -   1. https://web.telegram.org/k/#@r_azzn
     2. robertazizyan@gmail.com
